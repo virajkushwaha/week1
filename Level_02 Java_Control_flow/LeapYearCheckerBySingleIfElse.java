@@ -1,7 +1,7 @@
 // Import Scanner to read user input
 import java.util.Scanner;
 
-// Create LeapYearChecker class to check if a year is a Leap Year
+// Create LeapYearCheckerBySingleIfElse class to check if a year is a Leap Year
 public class LeapYearCheckerBySingleIfElse {
     public static void main(String[] args){
         // Create Scanner object to take input from the user
